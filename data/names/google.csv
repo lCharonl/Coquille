@@ -1,0 +1,264 @@
+name,technique,score
+9mail,homoglyph_ascii,0.90
+9oogle,homoglyph_ascii,0.90
+G0ogle,homoglyph_ascii,0.90
+Gm4il,homoglyph_ascii,0.90
+Gm@il,homoglyph_ascii,0.90
+Gma1l,homoglyph_ascii,0.90
+Gmai1,homoglyph_ascii,0.90
+Gmaii,homoglyph_ascii,0.90
+Gmaiӏ,homoglyph_unicode,0.90
+Gmall,homoglyph_ascii,0.90
+Gmaìl,homoglyph_unicode,0.90
+Gmaíl,homoglyph_unicode,0.90
+Gmaïl,homoglyph_unicode,0.90
+Gmaіl,homoglyph_unicode,0.90
+Gmàil,homoglyph_unicode,0.90
+Gmáil,homoglyph_unicode,0.90
+Gmäil,homoglyph_unicode,0.90
+Gmаil,homoglyph_unicode,0.90
+Gnnail,homoglyph_ascii,0.90
+Go0gle,homoglyph_ascii,0.90
+Goo9le,homoglyph_ascii,0.90
+Goog1e,homoglyph_ascii,0.90
+Googie,homoglyph_ascii,0.90
+Googl3,homoglyph_ascii,0.90
+Googlc,homoglyph_ascii,0.90
+Googlè,homoglyph_unicode,0.90
+Googlé,homoglyph_unicode,0.90
+Googlë,homoglyph_unicode,0.90
+Googlе,homoglyph_unicode,0.90
+Googӏe,homoglyph_unicode,0.90
+Gooqle,homoglyph_ascii,0.90
+Goògle,homoglyph_unicode,0.90
+Goógle,homoglyph_unicode,0.90
+Goögle,homoglyph_unicode,0.90
+Goοgle,homoglyph_unicode,0.90
+Goоgle,homoglyph_unicode,0.90
+Grnail,homoglyph_ascii,0.90
+Gòogle,homoglyph_unicode,0.90
+Góogle,homoglyph_unicode,0.90
+Göogle,homoglyph_unicode,0.90
+Gοogle,homoglyph_unicode,0.90
+Gоogle,homoglyph_unicode,0.90
+qmail,homoglyph_ascii,0.90
+qoogle,homoglyph_ascii,0.90
+Gmail Alert,display_name,0.85
+Gmail Assistance,display_name,0.85
+Gmail Billing,display_name,0.85
+Gmail Customer Service,display_name,0.85
+Gmail Help,display_name,0.85
+Gmail Notification,display_name,0.85
+Gmail Official,display_name,0.85
+Gmail Security,display_name,0.85
+Gmail Service,display_name,0.85
+Gmail Service Client,display_name,0.85
+Gmail Support,display_name,0.85
+Gmail Team,display_name,0.85
+Gmail ™,display_name,0.85
+Gmail-Alert,display_name,0.85
+Gmail-Assistance,display_name,0.85
+Gmail-Billing,display_name,0.85
+Gmail-CustomerService,display_name,0.85
+Gmail-Help,display_name,0.85
+Gmail-Notification,display_name,0.85
+Gmail-Official,display_name,0.85
+Gmail-Security,display_name,0.85
+Gmail-Service,display_name,0.85
+Gmail-ServiceClient,display_name,0.85
+Gmail-Support,display_name,0.85
+Gmail-Team,display_name,0.85
+GmailAlert,display_name,0.85
+GmailAssistance,display_name,0.85
+GmailBilling,display_name,0.85
+GmailCustomerService,display_name,0.85
+GmailHelp,display_name,0.85
+GmailNotification,display_name,0.85
+GmailOfficial,display_name,0.85
+GmailSecurity,display_name,0.85
+GmailService,display_name,0.85
+GmailServiceClient,display_name,0.85
+GmailSupport,display_name,0.85
+GmailTeam,display_name,0.85
+Gmail®,display_name,0.85
+Google Alert,display_name,0.85
+Google Assistance,display_name,0.85
+Google Billing,display_name,0.85
+Google Customer Service,display_name,0.85
+Google Help,display_name,0.85
+Google Notification,display_name,0.85
+Google Official,display_name,0.85
+Google Security,display_name,0.85
+Google Service,display_name,0.85
+Google Service Client,display_name,0.85
+Google Support,display_name,0.85
+Google Team,display_name,0.85
+Google ™,display_name,0.85
+Google-Alert,display_name,0.85
+Google-Assistance,display_name,0.85
+Google-Billing,display_name,0.85
+Google-CustomerService,display_name,0.85
+Google-Help,display_name,0.85
+Google-Notification,display_name,0.85
+Google-Official,display_name,0.85
+Google-Security,display_name,0.85
+Google-Service,display_name,0.85
+Google-ServiceClient,display_name,0.85
+Google-Support,display_name,0.85
+Google-Team,display_name,0.85
+GoogleAlert,display_name,0.85
+GoogleAssistance,display_name,0.85
+GoogleBilling,display_name,0.85
+GoogleCustomerService,display_name,0.85
+GoogleHelp,display_name,0.85
+GoogleNotification,display_name,0.85
+GoogleOfficial,display_name,0.85
+GoogleSecurity,display_name,0.85
+GoogleService,display_name,0.85
+GoogleServiceClient,display_name,0.85
+GoogleSupport,display_name,0.85
+GoogleTeam,display_name,0.85
+Google®,display_name,0.85
+Gail,omission,0.70
+Gamil,transposition,0.70
+Gmai,omission,0.70
+Gmal,omission,0.70
+Gmali,transposition,0.70
+Gmial,transposition,0.70
+Gmil,omission,0.70
+Gogle,omission,0.70
+Gogole,transposition,0.70
+Googe,omission,0.70
+Googel,transposition,0.70
+Googl,omission,0.70
+Goole,omission,0.70
+Goolge,transposition,0.70
+mGail,transposition,0.70
+mail,omission,0.70
+oGogle,transposition,0.70
+oogle,omission,0.70
+GGmail,repetition,0.65
+GGoogle,repetition,0.65
+Gmaail,repetition,0.65
+Gmaiil,repetition,0.65
+Gmaill,repetition,0.65
+Gmmail,repetition,0.65
+Googgle,repetition,0.65
+Googlee,repetition,0.65
+Googlle,repetition,0.65
+Gooogle,repetition,0.65
+G8ogle,replacement,0.60
+G9ogle,replacement,0.60
+Ghail,replacement,0.60
+Giogle,replacement,0.60
+Gjail,replacement,0.60
+Gkail,replacement,0.60
+Gkogle,replacement,0.60
+Glail,replacement,0.60
+Glogle,replacement,0.60
+Gm1il,replacement,0.60
+Gm2il,replacement,0.60
+Gma7l,replacement,0.60
+Gma8l,replacement,0.60
+Gma9l,replacement,0.60
+Gmaik,replacement,0.60
+Gmaim,replacement,0.60
+Gmaio,replacement,0.60
+Gmaip,replacement,0.60
+Gmajl,replacement,0.60
+Gmakl,replacement,0.60
+Gmaol,replacement,0.60
+Gmaul,replacement,0.60
+Gmogle,replacement,0.60
+Gmqil,replacement,0.60
+Gmsil,replacement,0.60
+Gmwil,replacement,0.60
+Gmxil,replacement,0.60
+Gmzil,replacement,0.60
+Gnail,replacement,0.60
+Go8gle,replacement,0.60
+Go9gle,replacement,0.60
+Goail,replacement,0.60
+Goigle,replacement,0.60
+Gokgle,replacement,0.60
+Golgle,replacement,0.60
+Gomgle,replacement,0.60
+Gooble,replacement,0.60
+Goofle,replacement,0.60
+Googke,replacement,0.60
+Googl2,replacement,0.60
+Googl4,replacement,0.60
+Googld,replacement,0.60
+Googlf,replacement,0.60
+Googlr,replacement,0.60
+Googls,replacement,0.60
+Googlw,replacement,0.60
+Googlz,replacement,0.60
+Googme,replacement,0.60
+Googoe,replacement,0.60
+Googpe,replacement,0.60
+Goohle,replacement,0.60
+Goonle,replacement,0.60
+Goorle,replacement,0.60
+Gootle,replacement,0.60
+Goovle,replacement,0.60
+Gooyle,replacement,0.60
+Gopgle,replacement,0.60
+Gpail,replacement,0.60
+Gpogle,replacement,0.60
+bmail,replacement,0.60
+boogle,replacement,0.60
+fmail,replacement,0.60
+foogle,replacement,0.60
+hmail,replacement,0.60
+hoogle,replacement,0.60
+nmail,replacement,0.60
+noogle,replacement,0.60
+rmail,replacement,0.60
+roogle,replacement,0.60
+tmail,replacement,0.60
+toogle,replacement,0.60
+vmail,replacement,0.60
+voogle,replacement,0.60
+ymail,replacement,0.60
+yoogle,replacement,0.60
+G mail,spacing,0.55
+G oogle,spacing,0.55
+G-mail,spacing,0.55
+G-oogle,spacing,0.55
+G.mail,spacing,0.55
+G.oogle,spacing,0.55
+G_mail,spacing,0.55
+G_oogle,spacing,0.55
+Gm ail,spacing,0.55
+Gm-ail,spacing,0.55
+Gm.ail,spacing,0.55
+Gm_ail,spacing,0.55
+Gma il,spacing,0.55
+Gma-il,spacing,0.55
+Gma.il,spacing,0.55
+Gma_il,spacing,0.55
+Gmai l,spacing,0.55
+Gmai-l,spacing,0.55
+Gmai.l,spacing,0.55
+Gmai_l,spacing,0.55
+Go ogle,spacing,0.55
+Go-ogle,spacing,0.55
+Go.ogle,spacing,0.55
+Go_ogle,spacing,0.55
+Goo gle,spacing,0.55
+Goo-gle,spacing,0.55
+Goo.gle,spacing,0.55
+Goo_gle,spacing,0.55
+Goog le,spacing,0.55
+Goog-le,spacing,0.55
+Goog.le,spacing,0.55
+Goog_le,spacing,0.55
+Googl e,spacing,0.55
+Googl-e,spacing,0.55
+Googl.e,spacing,0.55
+Googl_e,spacing,0.55
+GMAIL,casing,0.30
+GOOGLE,casing,0.30
+gmail,casing,0.30
+google,casing,0.30

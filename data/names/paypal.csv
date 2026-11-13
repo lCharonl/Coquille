@@ -1,0 +1,133 @@
+name,technique,score
+P4yPal,homoglyph_ascii,0.90
+P@yPal,homoglyph_ascii,0.90
+PayP4l,homoglyph_ascii,0.90
+PayP@l,homoglyph_ascii,0.90
+PayPa1,homoglyph_ascii,0.90
+PayPai,homoglyph_ascii,0.90
+PayPaӏ,homoglyph_unicode,0.90
+PayPàl,homoglyph_unicode,0.90
+PayPál,homoglyph_unicode,0.90
+PayPäl,homoglyph_unicode,0.90
+PayPаl,homoglyph_unicode,0.90
+Payрal,homoglyph_unicode,0.90
+PaýPal,homoglyph_unicode,0.90
+PaуPal,homoglyph_unicode,0.90
+PàyPal,homoglyph_unicode,0.90
+PáyPal,homoglyph_unicode,0.90
+PäyPal,homoglyph_unicode,0.90
+PаyPal,homoglyph_unicode,0.90
+рayPal,homoglyph_unicode,0.90
+PayPal Alert,display_name,0.85
+PayPal Assistance,display_name,0.85
+PayPal Billing,display_name,0.85
+PayPal Customer Service,display_name,0.85
+PayPal Help,display_name,0.85
+PayPal Notification,display_name,0.85
+PayPal Official,display_name,0.85
+PayPal Security,display_name,0.85
+PayPal Service,display_name,0.85
+PayPal Service Client,display_name,0.85
+PayPal Support,display_name,0.85
+PayPal Team,display_name,0.85
+PayPal ™,display_name,0.85
+PayPal-Alert,display_name,0.85
+PayPal-Assistance,display_name,0.85
+PayPal-Billing,display_name,0.85
+PayPal-CustomerService,display_name,0.85
+PayPal-Help,display_name,0.85
+PayPal-Notification,display_name,0.85
+PayPal-Official,display_name,0.85
+PayPal-Security,display_name,0.85
+PayPal-Service,display_name,0.85
+PayPal-ServiceClient,display_name,0.85
+PayPal-Support,display_name,0.85
+PayPal-Team,display_name,0.85
+PayPalAlert,display_name,0.85
+PayPalAssistance,display_name,0.85
+PayPalBilling,display_name,0.85
+PayPalCustomerService,display_name,0.85
+PayPalHelp,display_name,0.85
+PayPalNotification,display_name,0.85
+PayPalOfficial,display_name,0.85
+PayPalSecurity,display_name,0.85
+PayPalService,display_name,0.85
+PayPalServiceClient,display_name,0.85
+PayPalSupport,display_name,0.85
+PayPalTeam,display_name,0.85
+PayPal®,display_name,0.85
+PaPal,omission,0.70
+PaPyal,transposition,0.70
+PayPa,omission,0.70
+PayPl,omission,0.70
+PayPla,transposition,0.70
+PayaPl,transposition,0.70
+Payal,omission,0.70
+PyPal,omission,0.70
+PyaPal,transposition,0.70
+aPyPal,transposition,0.70
+ayPal,omission,0.70
+PPayPal,repetition,0.65
+PaayPal,repetition,0.65
+PayPPal,repetition,0.65
+PayPaal,repetition,0.65
+PayPall,repetition,0.65
+PayyPal,repetition,0.65
+0ayPal,replacement,0.60
+9ayPal,replacement,0.60
+P1yPal,replacement,0.60
+P2yPal,replacement,0.60
+Pa5Pal,replacement,0.60
+Pa6Pal,replacement,0.60
+Pa7Pal,replacement,0.60
+PagPal,replacement,0.60
+PahPal,replacement,0.60
+PajPal,replacement,0.60
+PatPal,replacement,0.60
+PauPal,replacement,0.60
+Pay0al,replacement,0.60
+Pay9al,replacement,0.60
+PayP1l,replacement,0.60
+PayP2l,replacement,0.60
+PayPak,replacement,0.60
+PayPam,replacement,0.60
+PayPao,replacement,0.60
+PayPap,replacement,0.60
+PayPql,replacement,0.60
+PayPsl,replacement,0.60
+PayPwl,replacement,0.60
+PayPxl,replacement,0.60
+PayPzl,replacement,0.60
+Paylal,replacement,0.60
+Paymal,replacement,0.60
+Payoal,replacement,0.60
+PqyPal,replacement,0.60
+PsyPal,replacement,0.60
+PwyPal,replacement,0.60
+PxyPal,replacement,0.60
+PzyPal,replacement,0.60
+layPal,replacement,0.60
+mayPal,replacement,0.60
+oayPal,replacement,0.60
+P ayPal,spacing,0.55
+P-ayPal,spacing,0.55
+P.ayPal,spacing,0.55
+P_ayPal,spacing,0.55
+Pa yPal,spacing,0.55
+Pa-yPal,spacing,0.55
+Pa.yPal,spacing,0.55
+Pa_yPal,spacing,0.55
+Pay Pal,spacing,0.55
+Pay-Pal,spacing,0.55
+Pay.Pal,spacing,0.55
+PayP al,spacing,0.55
+PayP-al,spacing,0.55
+PayP.al,spacing,0.55
+PayP_al,spacing,0.55
+PayPa l,spacing,0.55
+PayPa-l,spacing,0.55
+PayPa.l,spacing,0.55
+PayPa_l,spacing,0.55
+Pay_Pal,spacing,0.55
+PAYPAL,casing,0.30
+paypal,casing,0.30

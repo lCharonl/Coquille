@@ -1,0 +1,82 @@
+name,technique,score
+DH1,homoglyph_ascii,0.90
+DHi,homoglyph_ascii,0.90
+DHӏ,homoglyph_unicode,0.90
+bHL,homoglyph_ascii,0.90
+clHL,homoglyph_ascii,0.90
+DHL Alert,display_name,0.85
+DHL Assistance,display_name,0.85
+DHL Billing,display_name,0.85
+DHL Customer Service,display_name,0.85
+DHL Help,display_name,0.85
+DHL Notification,display_name,0.85
+DHL Official,display_name,0.85
+DHL Security,display_name,0.85
+DHL Service,display_name,0.85
+DHL Service Client,display_name,0.85
+DHL Support,display_name,0.85
+DHL Team,display_name,0.85
+DHL ™,display_name,0.85
+DHL-Alert,display_name,0.85
+DHL-Assistance,display_name,0.85
+DHL-Billing,display_name,0.85
+DHL-CustomerService,display_name,0.85
+DHL-Help,display_name,0.85
+DHL-Notification,display_name,0.85
+DHL-Official,display_name,0.85
+DHL-Security,display_name,0.85
+DHL-Service,display_name,0.85
+DHL-ServiceClient,display_name,0.85
+DHL-Support,display_name,0.85
+DHL-Team,display_name,0.85
+DHLAlert,display_name,0.85
+DHLAssistance,display_name,0.85
+DHLBilling,display_name,0.85
+DHLCustomerService,display_name,0.85
+DHLHelp,display_name,0.85
+DHLNotification,display_name,0.85
+DHLOfficial,display_name,0.85
+DHLSecurity,display_name,0.85
+DHLService,display_name,0.85
+DHLServiceClient,display_name,0.85
+DHLSupport,display_name,0.85
+DHLTeam,display_name,0.85
+DHL®,display_name,0.85
+DH,omission,0.70
+DL,omission,0.70
+DLH,transposition,0.70
+HDL,transposition,0.70
+HL,omission,0.70
+DDHL,repetition,0.65
+DHHL,repetition,0.65
+DHLL,repetition,0.65
+DHk,replacement,0.60
+DHm,replacement,0.60
+DHo,replacement,0.60
+DHp,replacement,0.60
+DbL,replacement,0.60
+DgL,replacement,0.60
+DjL,replacement,0.60
+DmL,replacement,0.60
+DnL,replacement,0.60
+DtL,replacement,0.60
+DuL,replacement,0.60
+DyL,replacement,0.60
+cHL,replacement,0.60
+eHL,replacement,0.60
+fHL,replacement,0.60
+rHL,replacement,0.60
+sHL,replacement,0.60
+vHL,replacement,0.60
+wHL,replacement,0.60
+xHL,replacement,0.60
+zHL,replacement,0.60
+D HL,spacing,0.55
+D-HL,spacing,0.55
+D.HL,spacing,0.55
+DH L,spacing,0.55
+DH-L,spacing,0.55
+DH.L,spacing,0.55
+DH_L,spacing,0.55
+D_HL,spacing,0.55
+dhl,casing,0.30

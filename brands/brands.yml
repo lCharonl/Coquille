@@ -1,0 +1,38 @@
+# Source of truth: brands covered by Coquille.
+# STATUS: seed entries only (used to develop/test the generators).
+# The full top-500 list is compiled from public reports and must be reviewed by a human
+# before generation (see plan, phase 3). `rank` stays null until sourced.
+brands:
+  - slug: paypal
+    name: PayPal
+    category: payments
+    legit_domains: [paypal.com, paypal.me]
+    keywords: [paypal, resolution, refund]
+    rank: null
+    sources: ["seed - to be validated against public brand-phishing reports"]
+
+  - slug: microsoft
+    name: Microsoft
+    category: tech
+    legit_domains: [microsoft.com, office.com, live.com, microsoftonline.com]
+    aliases: [Office 365, Outlook]
+    keywords: [office365, outlook, onedrive, teams]
+    rank: null
+    sources: ["seed - to be validated against public brand-phishing reports"]
+
+  - slug: google
+    name: Google
+    category: tech
+    legit_domains: [google.com, gmail.com]
+    aliases: [Gmail]
+    keywords: [gmail, drive, workspace]
+    rank: null
+    sources: ["seed - to be validated against public brand-phishing reports"]
+
+  - slug: dhl
+    name: DHL
+    category: logistics
+    legit_domains: [dhl.com]
+    keywords: [tracking, parcel, colis, livraison, express]
+    rank: null
+    sources: ["seed - to be validated against public brand-phishing reports"]

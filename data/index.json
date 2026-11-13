@@ -1,0 +1,24 @@
+{
+  "brands": 4,
+  "generated_at": "2026-11-13T14:57:25Z",
+  "per_brand": {
+    "dhl": {
+      "domains": 659,
+      "names": 81
+    },
+    "google": {
+      "domains": 1000,
+      "names": 263
+    },
+    "microsoft": {
+      "domains": 1000,
+      "names": 300
+    },
+    "paypal": {
+      "domains": 711,
+      "names": 132
+    }
+  },
+  "total_domains": 3370,
+  "total_names": 776
+}
