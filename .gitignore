@@ -3,6 +3,5 @@ __pycache__/
 .venv/
 .pytest_cache/
 .ruff_cache/
-# aggregated blocklists are published as GitHub Release assets, not committed
 dist/
 .claude
